@@ -21,7 +21,6 @@
 - 👨‍💻 Full-stack developer at <a href="http://www.fs.com.br/"><strong>FS Security</strong></a>.
 - 🌱 Learning more about and studying: **Node.js, DevOps and CompSci**.
 - 💙 Interests: Machine Learning, DevOps and Science.
-<br/>
 
 ### Languages and Tools
 <p align="left">
@@ -106,7 +105,6 @@
     />
   </a>
 </p>
-
 
 ### Where to find me:
 
