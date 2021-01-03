@@ -50,7 +50,7 @@
   </a>
   <a href="https://palletsprojects.com/p/flask/" target="_blank">
     <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPAH3qo9P8WHLJbB1BEXoupDOH4YGosKoXQ&usqp=CAU"
+      src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png"
       alt="jest"
       width="40"
       height="40"
