@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
       alt="nodejs"
       width="40"
       height="40"
@@ -34,7 +34,7 @@
   </a>
   <a href="https://www.python.org" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/python/python-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
       width="40"
       height="40"
@@ -42,7 +42,7 @@
   </a>
   <a href="https://expressjs.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
       alt="jest"
       width="40"
       height="40"
@@ -66,7 +66,7 @@
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       alt="react"
       width="40"
       height="40"
@@ -82,7 +82,7 @@
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
       alt="docker"
       width="40"
       height="40"
@@ -106,7 +106,7 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
       alt="postgresql"
       width="40"
       height="40"
@@ -114,8 +114,8 @@
   </a>
   <a href="https://archlinux.org/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"
-      alt="python"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="linux"
       width="40"
       height="40"
     />
