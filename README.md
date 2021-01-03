@@ -24,6 +24,14 @@
 
 ### Languages and Tools
 <p align="left">
+<a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.python.org" target="_blank">
     <img
       src="https://devicon.dev/devicon.git/icons/python/python-original.svg"
@@ -32,10 +40,18 @@
       height="40"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank">
+  <a href="https://expressjs.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg"
-      alt="nodejs"
+      src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg"
+      alt="jest"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://palletsprojects.com/p/flask/" target="_blank">
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPAH3qo9P8WHLJbB1BEXoupDOH4YGosKoXQ&usqp=CAU"
+      alt="jest"
       width="40"
       height="40"
     />
@@ -43,14 +59,6 @@
   <a href="https://jestjs.io" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg"
       alt="jest"
       width="40"
       height="40"
