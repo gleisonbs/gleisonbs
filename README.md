@@ -40,6 +40,14 @@
       height="40"
     />
   </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">
+    <img
+      src="https://linde.ee/wp-content/uploads/2020/10/C.png"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://expressjs.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
