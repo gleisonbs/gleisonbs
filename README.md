@@ -16,12 +16,6 @@
 
 ## Oh, hi Mark. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### About me
-
-- 👨‍💻 Full-stack developer at <a href="http://www.fs.com.br/"><strong>FS Security</strong></a>.
-- 🌱 Learning more about and studying: **Node.js, DevOps and CompSci**.
-- 💙 Interests: Machine Learning, DevOps and Science.
-
 ### Languages and Tools
 <p align="left">
 <a href="https://nodejs.org" target="_blank">
