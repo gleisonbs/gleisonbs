@@ -1,6 +1,16 @@
 ## Hello, there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-![Gleison's GitHub stats](https://github-readme-stats.vercel.app/api?username=gleisonbs&show_icons=true&count_private=true&theme=dark) <br />
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleisonbs&layout=compact&theme=radical"
+  />
+  <img
+    align="center"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=gleisonbs&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+  />
+</p>
 
 ### 🛠 Languages and Tools
 
